@@ -38,7 +38,7 @@ function preload() {
 }
 
 function setup() {
-  totalPageHeight = windowHeight*10;
+  totalPageHeight = 6800;
   createCanvas(windowWidth, totalPageHeight);
   textFont(font);
 
@@ -238,6 +238,23 @@ function draw() {
 
   if (tooltip != null) {
     drawTooltip(tooltip['left'], tooltip['right']);
+  }
+
+
+  textAlign(LEFT,TOP);
+  fill(255); noStroke();
+  textSize(20);
+  text('Sources used:', 20,height-100);
+  let sources = [
+    'NRC Emotion Intensity Lexicon - Saif Mohammad (2020)',
+    'A Minimal Turing Test - John P. McCoy and Tomer D. Ullman (2018)',
+    'Uniform Manifold Approximation and Projection (UMAP) documentation'
+  ]
+  textSize(12);
+  let startY = height-70;
+  for (let i in sources) {
+    source = sources[i];
+    text(source, 20,startY + (i*20));
   }
 
 }
