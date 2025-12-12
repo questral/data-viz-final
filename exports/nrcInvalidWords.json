@@ -1,0 +1,1316 @@
+{
+    "aaaaaaah": {
+        "fear": 0.344
+    },
+    "aaaah": {
+        "fear": 0.234
+    },
+    "aga": {
+        "fear": 0.219,
+        "trust": 0.359
+    },
+    "agh": {
+        "anger": 0.281
+    },
+    "aghhh": {
+        "fear": 0.438
+    },
+    "ahhh": {
+        "fear": 0.125
+    },
+    "ahhhhhhhh": {
+        "fear": 0.312
+    },
+    "aksesoris": {
+        "trust": 0.32
+    },
+    "allsmiles": {
+        "joy": 0.828
+    },
+    "alreadyyyyy": {
+        "fear": 0.14
+    },
+    "amazedness": {
+        "surprise": 0.719
+    },
+    "angermanagement": {
+        "anger": 0.469
+    },
+    "angrytweet": {
+        "anger": 0.812
+    },
+    "annoyin": {
+        "anger": 0.545
+    },
+    "antifungal": {
+        "trust": 0.266
+    },
+    "anxietyattack": {
+        "fear": 0.797
+    },
+    "approbate": {
+        "trust": 0.484
+    },
+    "approvement": {
+        "trust": 0.617
+    },
+    "areyoukidding": {
+        "anger": 0.468
+    },
+    "areyoukiddingme": {
+        "anger": 0.409
+    },
+    "argh": {
+        "anger": 0.391
+    },
+    "arghh": {
+        "anger": 0.562
+    },
+    "arghhhh": {
+        "anger": 0.547
+    },
+    "asleeep": {
+        "anger": 0.059
+    },
+    "atpeace": {
+        "joy": 0.727
+    },
+    "attentionseeker": {
+        "anger": 0.25
+    },
+    "attentionseekers": {
+        "anger": 0.163
+    },
+    "autocorrect": {
+        "anger": 0.015
+    },
+    "aversation": {
+        "disgust": 0.484
+    },
+    "averseness": {
+        "disgust": 0.391
+    },
+    "backoff": {
+        "anger": 0.469
+    },
+    "badday": {
+        "sadness": 0.439
+    },
+    "badfeeling": {
+        "fear": 0.516
+    },
+    "badhabit": {
+        "fear": 0.242
+    },
+    "bastarding": {
+        "anger": 0.719
+    },
+    "bday": {
+        "joy": 0.672
+    },
+    "behappy": {
+        "joy": 0.734
+    },
+    "bestdayever": {
+        "joy": 0.938
+    },
+    "bestfeeling": {
+        "joy": 0.712
+    },
+    "bestfriends": {
+        "joy": 0.682
+    },
+    "besties": {
+        "joy": 0.656
+    },
+    "bigday": {
+        "fear": 0.109
+    },
+    "biggestfear": {
+        "fear": 0.797
+    },
+    "bluddy": {
+        "anger": 0.562
+    },
+    "boooo": {
+        "sadness": 0.219
+    },
+    "bouttime": {
+        "joy": 0.212
+    },
+    "breakingnews": {
+        "fear": 0.25
+    },
+    "brokenheart": {
+        "sadness": 0.792
+    },
+    "brrr": {
+        "anger": 0.328
+    },
+    "bruh": {
+        "trust": 0.312
+    },
+    "cantbreathe": {
+        "fear": 0.641
+    },
+    "canthandleit": {
+        "fear": 0.484
+    },
+    "cantstandit": {
+        "anger": 0.529
+    },
+    "cantwin": {
+        "anger": 0.409
+    },
+    "capslock": {
+        "anger": 0.242
+    },
+    "cess": {
+        "disgust": 0.67
+    },
+    "chai": {
+        "joy": 0.156
+    },
+    "childloss": {
+        "sadness": 0.812
+    },
+    "christmasbreak": {
+        "joy": 0.727
+    },
+    "christmaseve": {
+        "joy": 0.656
+    },
+    "christmasspirit": {
+        "joy": 0.766
+    },
+    "christmassy": {
+        "joy": 0.779
+    },
+    "coldsweat": {
+        "fear": 0.438
+    },
+    "corse": {
+        "sadness": 0.359
+    },
+    "countrymusic": {
+        "joy": 0.212
+    },
+    "cytomegalovirus": {
+        "sadness": 0.5
+    },
+    "dangit": {
+        "anger": 0.394
+    },
+    "darkside": {
+        "anger": 0.547
+    },
+    "datenight": {
+        "joy": 0.484
+    },
+    "daymade": {
+        "joy": 0.514
+    },
+    "dayoff": {
+        "joy": 0.531
+    },
+    "depresson": {
+        "fear": 0.422
+    },
+    "disapointment": {
+        "anger": 0.29
+    },
+    "displacency": {
+        "disgust": 0.414
+    },
+    "disrelish": {
+        "disgust": 0.391
+    },
+    "dogsick": {
+        "disgust": 0.57
+    },
+    "dontlikeyou": {
+        "anger": 0.712
+    },
+    "dontmess": {
+        "anger": 0.576
+    },
+    "dontmesswithme": {
+        "anger": 0.75
+    },
+    "dontpanic": {
+        "fear": 0.378
+    },
+    "dontunderstand": {
+        "anger": 0.242
+    },
+    "douchebags": {
+        "anger": 0.75
+    },
+    "dramaqueen": {
+        "anger": 0.312
+    },
+    "dumbasses": {
+        "anger": 0.712
+    },
+    "dumbbitch": {
+        "anger": 0.841
+    },
+    "dumfound": {
+        "surprise": 0.758
+    },
+    "dumfounder": {
+        "surprise": 0.695
+    },
+    "eatingdisorders": {
+        "fear": 0.578
+    },
+    "eeeek": {
+        "fear": 0.5
+    },
+    "eeek": {
+        "fear": 0.562
+    },
+    "effyou": {
+        "anger": 0.818
+    },
+    "ehh": {
+        "trust": 0.188
+    },
+    "emetophobia": {
+        "fear": 0.656
+    },
+    "enablement": {
+        "trust": 0.422
+    },
+    "encomiastic": {
+        "trust": 0.383
+    },
+    "eulogium": {
+        "trust": 0.359
+    },
+    "everyman": {
+        "fear": 0.178
+    },
+    "expectance": {
+        "anticipation": 0.75
+    },
+    "familytime": {
+        "joy": 0.515
+    },
+    "favoriteholiday": {
+        "joy": 0.844
+    },
+    "favs": {
+        "trust": 0.398
+    },
+    "fedup": {
+        "anger": 0.734
+    },
+    "feelingdown": {
+        "sadness": 0.672
+    },
+    "feelinggood": {
+        "joy": 0.734
+    },
+    "fiesty": {
+        "anger": 0.53
+    },
+    "fingerscrossed": {
+        "fear": 0.219
+    },
+    "firstworldprobs": {
+        "anger": 0.379
+    },
+    "fisheye": {
+        "trust": 0.281
+    },
+    "flexin": {
+        "anger": 0.281
+    },
+    "foreveralone": {
+        "sadness": 0.688
+    },
+    "frankenstorm": {
+        "fear": 0.672
+    },
+    "freakedout": {
+        "fear": 0.672
+    },
+    "freakingout": {
+        "fear": 0.781
+    },
+    "freakout": {
+        "fear": 0.531
+    },
+    "freshair": {
+        "joy": 0.455
+    },
+    "freshstart": {
+        "joy": 0.544
+    },
+    "fricking": {
+        "anger": 0.485
+    },
+    "friggen": {
+        "anger": 0.575
+    },
+    "fuckedoff": {
+        "anger": 0.742
+    },
+    "fuckoff": {
+        "anger": 0.912
+    },
+    "fucksake": {
+        "anger": 0.812
+    },
+    "fucktard": {
+        "anger": 0.906
+    },
+    "fuckyeah": {
+        "joy": 0.703
+    },
+    "fumin": {
+        "anger": 0.779
+    },
+    "funday": {
+        "joy": 0.772
+    },
+    "fustrated": {
+        "anger": 0.547
+    },
+    "gaby": {
+        "disgust": 0.281
+    },
+    "gahhh": {
+        "anger": 0.439
+    },
+    "gameday": {
+        "fear": 0.125
+    },
+    "gametime": {
+        "fear": 0.328
+    },
+    "geez": {
+        "anger": 0.136
+    },
+    "getoverit": {
+        "anger": 0.426
+    },
+    "getoveryourself": {
+        "anger": 0.495
+    },
+    "getyourown": {
+        "anger": 0.297
+    },
+    "godbless": {
+        "joy": 0.616
+    },
+    "godisgood": {
+        "joy": 0.597
+    },
+    "godisgreat": {
+        "joy": 0.721
+    },
+    "gofuckyourself": {
+        "anger": 0.886
+    },
+    "goodday": {
+        "joy": 0.734
+    },
+    "goodfeeling": {
+        "joy": 0.766
+    },
+    "goodhealth": {
+        "joy": 0.682
+    },
+    "goodlife": {
+        "joy": 0.703
+    },
+    "goodmood": {
+        "joy": 0.819
+    },
+    "goodmorning": {
+        "joy": 0.547
+    },
+    "goodmusic": {
+        "joy": 0.594
+    },
+    "goodnews": {
+        "joy": 0.703
+    },
+    "goodtimes": {
+        "joy": 0.811
+    },
+    "goodvibes": {
+        "joy": 0.742
+    },
+    "gooood": {
+        "joy": 0.703
+    },
+    "gracias": {
+        "joy": 0.554
+    },
+    "gradschool": {
+        "fear": 0.062
+    },
+    "greatday": {
+        "joy": 0.812
+    },
+    "greatfriends": {
+        "joy": 0.688
+    },
+    "greatful": {
+        "joy": 0.816
+    },
+    "greatnight": {
+        "joy": 0.734
+    },
+    "growthefuckup": {
+        "anger": 0.788
+    },
+    "grr": {
+        "anger": 0.641
+    },
+    "grrr": {
+        "anger": 0.516
+    },
+    "grrrrr": {
+        "anger": 0.391
+    },
+    "hadenough": {
+        "anger": 0.546
+    },
+    "hairchalk": {
+        "trust": 0.336
+    },
+    "hairclip": {
+        "trust": 0.297
+    },
+    "handgel": {
+        "trust": 0.32
+    },
+    "hangry": {
+        "anger": 0.515
+    },
+    "happydance": {
+        "joy": 0.912
+    },
+    "happyday": {
+        "joy": 0.809
+    },
+    "happyheart": {
+        "joy": 0.818
+    },
+    "happyholidays": {
+        "joy": 0.75
+    },
+    "happynewyear": {
+        "joy": 0.656
+    },
+    "happyplace": {
+        "joy": 0.875
+    },
+    "happytweet": {
+        "joy": 0.797
+    },
+    "happyvalentinesday": {
+        "joy": 0.773
+    },
+    "hateeee": {
+        "anger": 0.779
+    },
+    "hateeveryone": {
+        "anger": 0.667
+    },
+    "hateyou": {
+        "anger": 0.818
+    },
+    "haye": {
+        "anger": 0.324
+    },
+    "heartattack": {
+        "fear": 0.812
+    },
+    "heartworm": {
+        "disgust": 0.688
+    },
+    "hee": {
+        "joy": 0.455
+    },
+    "heheh": {
+        "joy": 0.606
+    },
+    "herpesvirus": {
+        "disgust": 0.773
+    },
+    "hohoho": {
+        "joy": 0.845
+    },
+    "holidayseason": {
+        "joy": 0.688
+    },
+    "holyspirit": {
+        "joy": 0.5
+    },
+    "homesweethome": {
+        "joy": 0.826
+    },
+    "homie": {
+        "trust": 0.391
+    },
+    "hosannah": {
+        "trust": 0.492
+    },
+    "hotyoga": {
+        "joy": 0.347
+    },
+    "humanrights": {
+        "fear": 0.172
+    },
+    "hurryup": {
+        "fear": 0.281
+    },
+    "ifonly": {
+        "sadness": 0.391
+    },
+    "ihatespiders": {
+        "fear": 0.859
+    },
+    "ilovechristmas": {
+        "joy": 0.859
+    },
+    "iloveher": {
+        "joy": 0.875
+    },
+    "imissyou": {
+        "sadness": 0.547
+    },
+    "imtryingtosleep": {
+        "anger": 0.234
+    },
+    "inaffable": {
+        "surprise": 0.312
+    },
+    "incase": {
+        "anger": 0.188,
+        "disgust": 0.258,
+        "fear": 0.109,
+        "sadness": 0.297
+    },
+    "inimaginable": {
+        "surprise": 0.617
+    },
+    "innerpeace": {
+        "joy": 0.656
+    },
+    "jellylens": {
+        "trust": 0.273
+    },
+    "jobinterview": {
+        "fear": 0.25
+    },
+    "juststop": {
+        "anger": 0.537
+    },
+    "justthebeginning": {
+        "anger": 0.152
+    },
+    "lastday": {
+        "sadness": 0.424
+    },
+    "lastminute": {
+        "fear": 0.219
+    },
+    "laudation": {
+        "trust": 0.484
+    },
+    "lazyday": {
+        "joy": 0.318
+    },
+    "leavemealone": {
+        "anger": 0.517
+    },
+    "leftout": {
+        "sadness": 0.469
+    },
+    "lifeisgood": {
+        "joy": 0.766
+    },
+    "lifesucks": {
+        "sadness": 0.7
+    },
+    "listenting": {
+        "joy": 0.359
+    },
+    "listneing": {
+        "joy": 0.212
+    },
+    "littlethings": {
+        "joy": 0.391
+    },
+    "livelife": {
+        "joy": 0.574
+    },
+    "lml": {
+        "joy": 0.422
+    },
+    "loathful": {
+        "disgust": 0.672
+    },
+    "lovee": {
+        "joy": 0.92
+    },
+    "loveee": {
+        "joy": 0.932
+    },
+    "lovelife": {
+        "joy": 0.703
+    },
+    "lovelovelove": {
+        "joy": 0.906
+    },
+    "lovemylife": {
+        "joy": 0.797
+    },
+    "lovethis": {
+        "joy": 0.891
+    },
+    "lovinglife": {
+        "joy": 0.875
+    },
+    "lovinlife": {
+        "joy": 0.797
+    },
+    "luckygirl": {
+        "joy": 0.576
+    },
+    "mademyday": {
+        "joy": 0.848
+    },
+    "makesmehappy": {
+        "joy": 0.922
+    },
+    "makesmemad": {
+        "anger": 0.688
+    },
+    "makingdisciples": {
+        "joy": 0.136
+    },
+    "memoriesiwontforget": {
+        "joy": 0.682
+    },
+    "mentalhealth": {
+        "fear": 0.375
+    },
+    "merci": {
+        "trust": 0.438
+    },
+    "merrychristmas": {
+        "joy": 0.712
+    },
+    "messedup": {
+        "sadness": 0.5
+    },
+    "metime": {
+        "joy": 0.688
+    },
+    "missingyou": {
+        "sadness": 0.672
+    },
+    "mixedemotions": {
+        "sadness": 0.266
+    },
+    "movingforward": {
+        "joy": 0.429
+    },
+    "movingon": {
+        "joy": 0.182
+    },
+    "muchneeded": {
+        "joy": 0.312
+    },
+    "mucis": {
+        "joy": 0.212
+    },
+    "myfavorite": {
+        "joy": 0.804
+    },
+    "namaste": {
+        "joy": 0.453
+    },
+    "needalife": {
+        "sadness": 0.398
+    },
+    "needit": {
+        "fear": 0.156
+    },
+    "needtoknow": {
+        "fear": 0.173
+    },
+    "needtorelax": {
+        "fear": 0.125
+    },
+    "nervouswreck": {
+        "fear": 0.672
+    },
+    "newbeginnings": {
+        "joy": 0.693
+    },
+    "newday": {
+        "joy": 0.438
+    },
+    "newjob": {
+        "fear": 0.266
+    },
+    "newlife": {
+        "joy": 0.618
+    },
+    "newme": {
+        "joy": 0.515
+    },
+    "newstart": {
+        "joy": 0.344
+    },
+    "newyear": {
+        "joy": 0.561
+    },
+    "nobodycares": {
+        "anger": 0.5
+    },
+    "nocomplaints": {
+        "joy": 0.485
+    },
+    "nohope": {
+        "sadness": 0.688
+    },
+    "noob": {
+        "anger": 0.133
+    },
+    "nopoint": {
+        "anger": 0.266
+    },
+    "noregrets": {
+        "joy": 0.328
+    },
+    "noschool": {
+        "joy": 0.516
+    },
+    "nosey": {
+        "anger": 0.213
+    },
+    "nosnow": {
+        "sadness": 0.169
+    },
+    "nostress": {
+        "joy": 0.421
+    },
+    "nosun": {
+        "sadness": 0.255
+    },
+    "notamorningperson": {
+        "anger": 0.266
+    },
+    "nothappy": {
+        "anger": 0.412
+    },
+    "nothingbetter": {
+        "joy": 0.647
+    },
+    "notready": {
+        "fear": 0.281
+    },
+    "nowork": {
+        "joy": 0.344
+    },
+    "noworries": {
+        "joy": 0.453
+    },
+    "obligor": {
+        "fear": 0.375
+    },
+    "ocd": {
+        "fear": 0.375
+    },
+    "ohdear": {
+        "fear": 0.406
+    },
+    "ohgod": {
+        "fear": 0.453
+    },
+    "ohno": {
+        "fear": 0.484
+    },
+    "ohshit": {
+        "fear": 0.766
+    },
+    "omgomgomg": {
+        "fear": 0.453
+    },
+    "oneday": {
+        "joy": 0.197
+    },
+    "onedge": {
+        "fear": 0.359
+    },
+    "onelove": {
+        "joy": 0.606
+    },
+    "overthemoon": {
+        "joy": 0.875
+    },
+    "overthinker": {
+        "fear": 0.153
+    },
+    "panicattack": {
+        "fear": 0.774
+    },
+    "peaceofmind": {
+        "joy": 0.891
+    },
+    "peice": {
+        "anger": 0.172
+    },
+    "peri": {
+        "surprise": 0.391
+    },
+    "petit": {
+        "trust": 0.344
+    },
+    "petloss": {
+        "sadness": 0.594
+    },
+    "petpeeve": {
+        "anger": 0.375
+    },
+    "pho": {
+        "joy": 0.212
+    },
+    "pieceofshit": {
+        "anger": 0.81
+    },
+    "pissedoff": {
+        "anger": 0.812
+    },
+    "pissesmeoff": {
+        "anger": 0.812
+    },
+    "pissingmeoff": {
+        "anger": 0.848
+    },
+    "pissoff": {
+        "anger": 0.875
+    },
+    "pitter": {
+        "joy": 0.134
+    },
+    "positiveenergy": {
+        "joy": 0.742
+    },
+    "positivity": {
+        "joy": 0.773,
+        "trust": 0.625
+    },
+    "praisegod": {
+        "joy": 0.625
+    },
+    "praisejesus": {
+        "joy": 0.691
+    },
+    "prayforme": {
+        "fear": 0.5
+    },
+    "prospection": {
+        "anticipation": 0.719
+    },
+    "ptsd": {
+        "fear": 0.75
+    },
+    "publicspeaking": {
+        "fear": 0.422
+    },
+    "purebliss": {
+        "joy": 0.909
+    },
+    "ragemode": {
+        "anger": 0.828
+    },
+    "ragetweet": {
+        "anger": 0.788
+    },
+    "rainyday": {
+        "sadness": 0.242
+    },
+    "rawr": {
+        "anger": 0.375
+    },
+    "readytogo": {
+        "fear": 0.172
+    },
+    "reflux": {
+        "disgust": 0.43
+    },
+    "repellant": {
+        "disgust": 0.539,
+        "fear": 0.373
+    },
+    "roadrage": {
+        "anger": 0.906
+    },
+    "roadtrip": {
+        "joy": 0.344
+    },
+    "sadday": {
+        "sadness": 0.562
+    },
+    "scifi": {
+        "joy": 0.152
+    },
+    "screwyou": {
+        "anger": 0.924
+    },
+    "selfharm": {
+        "fear": 0.656
+    },
+    "selflove": {
+        "joy": 0.742
+    },
+    "selfworth": {
+        "joy": 0.484
+    },
+    "settlor": {
+        "fear": 0.172
+    },
+    "shitday": {
+        "anger": 0.727
+    },
+    "shitless": {
+        "fear": 0.656
+    },
+    "shittest": {
+        "anger": 0.76
+    },
+    "shoutout": {
+        "trust": 0.344
+    },
+    "shutit": {
+        "anger": 0.578
+    },
+    "shutup": {
+        "anger": 0.578
+    },
+    "shyt": {
+        "trust": 0.227
+    },
+    "sib": {
+        "trust": 0.32
+    },
+    "snowday": {
+        "joy": 0.333
+    },
+    "snowmageddon": {
+        "fear": 0.5
+    },
+    "soangry": {
+        "anger": 0.758
+    },
+    "soannoyed": {
+        "anger": 0.588
+    },
+    "soblessed": {
+        "joy": 0.706
+    },
+    "socialanxiety": {
+        "fear": 0.688
+    },
+    "sohappy": {
+        "joy": 0.868
+    },
+    "solucky": {
+        "joy": 0.781
+    },
+    "somad": {
+        "anger": 0.637
+    },
+    "somethingigetalot": {
+        "anger": 0.219
+    },
+    "somuchtodo": {
+        "fear": 0.212
+    },
+    "sonervous": {
+        "fear": 0.484
+    },
+    "sonice": {
+        "joy": 0.455
+    },
+    "sopissed": {
+        "anger": 0.894
+    },
+    "soready": {
+        "fear": 0.125
+    },
+    "soscared": {
+        "fear": 0.672
+    },
+    "soscary": {
+        "fear": 0.712
+    },
+    "soslow": {
+        "anger": 0.398
+    },
+    "sostressed": {
+        "fear": 0.578
+    },
+    "sosweet": {
+        "joy": 0.766
+    },
+    "sothankful": {
+        "joy": 0.781
+    },
+    "spaz": {
+        "fear": 0.391
+    },
+    "spillin": {
+        "fear": 0.328
+    },
+    "staticky": {
+        "anger": 0.336
+    },
+    "stayaway": {
+        "anger": 0.485
+    },
+    "stfu": {
+        "anger": 0.75
+    },
+    "stillwaiting": {
+        "fear": 0.184
+    },
+    "stoopid": {
+        "anger": 0.471
+    },
+    "stound": {
+        "surprise": 0.445
+    },
+    "stressfree": {
+        "joy": 0.601
+    },
+    "stressin": {
+        "fear": 0.422
+    },
+    "stressrelief": {
+        "joy": 0.5
+    },
+    "stuckup": {
+        "anger": 0.375
+    },
+    "stupidpeople": {
+        "anger": 0.492
+    },
+    "stupidrain": {
+        "anger": 0.426
+    },
+    "subito": {
+        "surprise": 0.461
+    },
+    "suicidebombing": {
+        "fear": 0.967
+    },
+    "sux": {
+        "anger": 0.456
+    },
+    "teamjesus": {
+        "joy": 0.5
+    },
+    "tearsofjoy": {
+        "joy": 0.859
+    },
+    "thankgod": {
+        "joy": 0.594
+    },
+    "thanksalot": {
+        "anger": 0.172
+    },
+    "thankyougod": {
+        "joy": 0.824
+    },
+    "thankyoujesus": {
+        "joy": 0.688
+    },
+    "thankyoulord": {
+        "joy": 0.803
+    },
+    "thatmoment": {
+        "fear": 0.234
+    },
+    "thaumaturgy": {
+        "surprise": 0.555
+    },
+    "thebest": {
+        "joy": 0.766
+    },
+    "thelife": {
+        "joy": 0.578
+    },
+    "thelittlethings": {
+        "joy": 0.424
+    },
+    "thermocouple": {
+        "anticipation": 0.297
+    },
+    "thx": {
+        "joy": 0.344
+    },
+    "timewasters": {
+        "anger": 0.348
+    },
+    "tiredofit": {
+        "anger": 0.603
+    },
+    "tistheseason": {
+        "joy": 0.75
+    },
+    "toocold": {
+        "sadness": 0.297
+    },
+    "toomuchtodo": {
+        "fear": 0.212
+    },
+    "tortious": {
+        "anger": 0.516,
+        "disgust": 0.516
+    },
+    "twofaced": {
+        "anger": 0.531
+    },
+    "uhoh": {
+        "fear": 0.328
+    },
+    "uncensured": {
+        "trust": 0.539
+    },
+    "unfollow": {
+        "anger": 0.25
+    },
+    "unimpeached": {
+        "trust": 0.523
+    },
+    "varicella": {
+        "disgust": 0.555,
+        "fear": 0.422,
+        "sadness": 0.424
+    },
+    "veryangry": {
+        "anger": 0.913
+    },
+    "waitinggame": {
+        "fear": 0.188
+    },
+    "wannasleep": {
+        "anger": 0.031
+    },
+    "warcrimes": {
+        "fear": 0.785
+    },
+    "watchout": {
+        "anger": 0.398
+    },
+    "weeeee": {
+        "joy": 0.672
+    },
+    "weightloss": {
+        "joy": 0.362
+    },
+    "whatdoido": {
+        "fear": 0.391
+    },
+    "whatif": {
+        "fear": 0.219
+    },
+    "whatmakesmesmile": {
+        "joy": 0.811
+    },
+    "whatsthepoint": {
+        "anger": 0.394
+    },
+    "whoo": {
+        "joy": 0.594
+    },
+    "whstupp": {
+        "trust": 0.203
+    },
+    "winterbreak": {
+        "joy": 0.429
+    },
+    "wintery": {
+        "joy": 0.172
+    },
+    "wishmeluck": {
+        "fear": 0.212
+    },
+    "wokemeup": {
+        "anger": 0.234
+    },
+    "wonderstruck": {
+        "trust": 0.422
+    },
+    "woohoo": {
+        "joy": 0.864
+    },
+    "woot": {
+        "joy": 0.588
+    },
+    "worstfeeling": {
+        "fear": 0.56
+    },
+    "xanax": {
+        "fear": 0.391
+    },
+    "xoxo": {
+        "joy": 0.634
+    },
+    "yaaaay": {
+        "joy": 0.875
+    },
+    "yaaay": {
+        "joy": 0.706
+    },
+    "yaay": {
+        "joy": 0.7
+    },
+    "yay": {
+        "joy": 0.712
+    },
+    "yayy": {
+        "joy": 0.636
+    },
+    "yayyy": {
+        "joy": 0.803
+    },
+    "yayyyy": {
+        "joy": 0.859
+    },
+    "yeahhh": {
+        "joy": 0.576
+    },
+    "yeahhhh": {
+        "joy": 0.803
+    },
+    "yehey": {
+        "joy": 0.486
+    },
+    "yesss": {
+        "joy": 0.797
+    },
+    "yessss": {
+        "joy": 0.728
+    },
+    "yey": {
+        "joy": 0.562
+    },
+    "youll": {
+        "trust": 0.328
+    },
+    "yousuck": {
+        "anger": 0.578
+    }
+}

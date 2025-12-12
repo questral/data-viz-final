@@ -1,0 +1,1050 @@
+{
+    "abuse": {
+        "emotions": {
+            "anger": 0.812,
+            "disgust": 0.695,
+            "fear": 0.672,
+            "sadness": 0.625
+        },
+        "freq": 1
+    },
+    "affection": {
+        "emotions": {
+            "joy": 0.647,
+            "trust": 0.484
+        },
+        "freq": 1
+    },
+    "afraid": {
+        "emotions": {
+            "fear": 0.844
+        },
+        "freq": 1
+    },
+    "alive": {
+        "emotions": {
+            "anticipation": 0.461,
+            "joy": 0.531,
+            "trust": 0.5
+        },
+        "freq": 9
+    },
+    "amnesty": {
+        "emotions": {
+            "joy": 0.328
+        },
+        "freq": 1
+    },
+    "annoyed": {
+        "emotions": {
+            "anger": 0.485
+        },
+        "freq": 1
+    },
+    "antithesis": {
+        "emotions": {
+            "anger": 0.5
+        },
+        "freq": 1
+    },
+    "anxiety": {
+        "emotions": {
+            "anger": 0.344,
+            "anticipation": 0.609,
+            "fear": 0.594,
+            "sadness": 0.5
+        },
+        "freq": 1
+    },
+    "anxious": {
+        "emotions": {
+            "anticipation": 0.641,
+            "fear": 0.518
+        },
+        "freq": 1
+    },
+    "asshole": {
+        "emotions": {
+            "anger": 0.606,
+            "disgust": 0.836
+        },
+        "freq": 2
+    },
+    "awareness": {
+        "emotions": {
+            "trust": 0.609
+        },
+        "freq": 1
+    },
+    "axiom": {
+        "emotions": {
+            "trust": 0.422
+        },
+        "freq": 1
+    },
+    "baby": {
+        "emotions": {
+            "joy": 0.5
+        },
+        "freq": 1
+    },
+    "banquet": {
+        "emotions": {
+            "anticipation": 0.406,
+            "joy": 0.303
+        },
+        "freq": 1
+    },
+    "beer": {
+        "emotions": {
+            "joy": 0.141
+        },
+        "freq": 1
+    },
+    "beg": {
+        "emotions": {
+            "sadness": 0.484
+        },
+        "freq": 1
+    },
+    "bitch": {
+        "emotions": {
+            "anger": 0.803,
+            "disgust": 0.648,
+            "fear": 0.297,
+            "sadness": 0.406
+        },
+        "freq": 1
+    },
+    "blood": {
+        "emotions": {
+            "fear": 0.525
+        },
+        "freq": 2
+    },
+    "blue": {
+        "emotions": {
+            "sadness": 0.4
+        },
+        "freq": 2
+    },
+    "breakfast": {
+        "emotions": {
+            "joy": 0.242
+        },
+        "freq": 1
+    },
+    "brotherhood": {
+        "emotions": {
+            "trust": 0.82
+        },
+        "freq": 1
+    },
+    "cacophony": {
+        "emotions": {
+            "anger": 0.406,
+            "disgust": 0.328
+        },
+        "freq": 1
+    },
+    "childhood": {
+        "emotions": {
+            "joy": 0.394
+        },
+        "freq": 1
+    },
+    "chill": {
+        "emotions": {
+            "joy": 0.281
+        },
+        "freq": 1
+    },
+    "coexist": {
+        "emotions": {
+            "trust": 0.641
+        },
+        "freq": 1
+    },
+    "communicate": {
+        "emotions": {
+            "trust": 0.664
+        },
+        "freq": 1
+    },
+    "compassion": {
+        "emotions": {
+            "fear": 0.078,
+            "trust": 0.759
+        },
+        "freq": 33
+    },
+    "compassionate": {
+        "emotions": {
+            "trust": 0.695
+        },
+        "freq": 2
+    },
+    "conscience": {
+        "emotions": {
+            "trust": 0.633
+        },
+        "freq": 1
+    },
+    "convict": {
+        "emotions": {
+            "anger": 0.621,
+            "disgust": 0.516,
+            "fear": 0.594,
+            "sadness": 0.469
+        },
+        "freq": 1
+    },
+    "court": {
+        "emotions": {
+            "anger": 0.199,
+            "anticipation": 0.492,
+            "fear": 0.284
+        },
+        "freq": 1
+    },
+    "creativity": {
+        "emotions": {
+            "joy": 0.484
+        },
+        "freq": 1
+    },
+    "cry": {
+        "emotions": {
+            "sadness": 0.75
+        },
+        "freq": 1
+    },
+    "damn": {
+        "emotions": {
+            "anger": 0.735,
+            "disgust": 0.359
+        },
+        "freq": 1
+    },
+    "death": {
+        "emotions": {
+            "anger": 0.574,
+            "anticipation": 0.398,
+            "disgust": 0.656,
+            "fear": 0.843,
+            "sadness": 0.915,
+            "surprise": 0.578
+        },
+        "freq": 2
+    },
+    "depression": {
+        "emotions": {
+            "fear": 0.508,
+            "sadness": 0.925
+        },
+        "freq": 1
+    },
+    "desire": {
+        "emotions": {
+            "joy": 0.484
+        },
+        "freq": 2
+    },
+    "dictionary": {
+        "emotions": {
+            "trust": 0.523
+        },
+        "freq": 1
+    },
+    "die": {
+        "emotions": {
+            "fear": 0.766,
+            "sadness": 0.773
+        },
+        "freq": 1
+    },
+    "dignity": {
+        "emotions": {
+            "joy": 0.5,
+            "trust": 0.672
+        },
+        "freq": 1
+    },
+    "dinosaur": {
+        "emotions": {
+            "fear": 0.453
+        },
+        "freq": 1
+    },
+    "diplomatic": {
+        "emotions": {
+            "trust": 0.68
+        },
+        "freq": 1
+    },
+    "ecstasy": {
+        "emotions": {
+            "anticipation": 0.711,
+            "joy": 0.906
+        },
+        "freq": 1
+    },
+    "emotional": {
+        "emotions": {
+            "sadness": 0.438
+        },
+        "freq": 3
+    },
+    "encyclopedia": {
+        "emotions": {
+            "trust": 0.672
+        },
+        "freq": 1
+    },
+    "endanger": {
+        "emotions": {
+            "anticipation": 0.516,
+            "fear": 0.688
+        },
+        "freq": 1
+    },
+    "error": {
+        "emotions": {
+            "sadness": 0.25
+        },
+        "freq": 1
+    },
+    "ethereal": {
+        "emotions": {
+            "fear": 0.328
+        },
+        "freq": 1
+    },
+    "excitement": {
+        "emotions": {
+            "anticipation": 0.82,
+            "joy": 0.922,
+            "surprise": 0.734
+        },
+        "freq": 1
+    },
+    "faith": {
+        "emotions": {
+            "anticipation": 0.438,
+            "joy": 0.453,
+            "trust": 0.742
+        },
+        "freq": 4
+    },
+    "family": {
+        "emotions": {
+            "joy": 0.5
+        },
+        "freq": 8
+    },
+    "fate": {
+        "emotions": {
+            "anticipation": 0.555,
+            "trust": 0.438
+        },
+        "freq": 1
+    },
+    "fear": {
+        "emotions": {
+            "anger": 0.5,
+            "fear": 0.828
+        },
+        "freq": 4
+    },
+    "feeling": {
+        "emotions": {
+            "anger": 0.147,
+            "anticipation": 0.555,
+            "disgust": 0.141,
+            "fear": 0.328,
+            "joy": 0.359,
+            "sadness": 0.172,
+            "surprise": 0.359,
+            "trust": 0.518
+        },
+        "freq": 1
+    },
+    "flesh": {
+        "emotions": {
+            "disgust": 0.352
+        },
+        "freq": 1
+    },
+    "food": {
+        "emotions": {
+            "joy": 0.258,
+            "trust": 0.336
+        },
+        "freq": 1
+    },
+    "forgive": {
+        "emotions": {
+            "trust": 0.547
+        },
+        "freq": 2
+    },
+    "forgiveness": {
+        "emotions": {
+            "joy": 0.453
+        },
+        "freq": 1
+    },
+    "fortitude": {
+        "emotions": {
+            "joy": 0.266,
+            "trust": 0.633
+        },
+        "freq": 1
+    },
+    "free": {
+        "emotions": {
+            "joy": 0.544
+        },
+        "freq": 1
+    },
+    "freedom": {
+        "emotions": {
+            "joy": 0.561,
+            "trust": 0.742
+        },
+        "freq": 4
+    },
+    "friend": {
+        "emotions": {
+            "joy": 0.471,
+            "trust": 0.75
+        },
+        "freq": 1
+    },
+    "friendship": {
+        "emotions": {
+            "joy": 0.591,
+            "trust": 0.727
+        },
+        "freq": 1
+    },
+    "frightened": {
+        "emotions": {
+            "fear": 0.844,
+            "surprise": 0.867
+        },
+        "freq": 2
+    },
+    "garden": {
+        "emotions": {
+            "joy": 0.333
+        },
+        "freq": 1
+    },
+    "genuine": {
+        "emotions": {
+            "trust": 0.75
+        },
+        "freq": 1
+    },
+    "god": {
+        "emotions": {
+            "anticipation": 0.484,
+            "fear": 0.094,
+            "joy": 0.545,
+            "trust": 0.617
+        },
+        "freq": 5
+    },
+    "gratitude": {
+        "emotions": {
+            "joy": 0.914,
+            "trust": 0.594
+        },
+        "freq": 1
+    },
+    "grief": {
+        "emotions": {
+            "sadness": 0.859
+        },
+        "freq": 1
+    },
+    "happiness": {
+        "emotions": {
+            "anticipation": 0.641,
+            "joy": 0.984
+        },
+        "freq": 4
+    },
+    "happy": {
+        "emotions": {
+            "anticipation": 0.555,
+            "joy": 0.788,
+            "trust": 0.609
+        },
+        "freq": 1
+    },
+    "hate": {
+        "emotions": {
+            "anger": 0.828,
+            "disgust": 0.695,
+            "fear": 0.484,
+            "sadness": 0.656
+        },
+        "freq": 1
+    },
+    "hatred": {
+        "emotions": {
+            "anger": 0.953,
+            "disgust": 0.68,
+            "fear": 0.703,
+            "sadness": 0.641
+        },
+        "freq": 1
+    },
+    "heart": {
+        "emotions": {
+            "joy": 0.547
+        },
+        "freq": 4
+    },
+    "heartache": {
+        "emotions": {
+            "sadness": 0.812
+        },
+        "freq": 1
+    },
+    "heartbreak": {
+        "emotions": {
+            "sadness": 0.781
+        },
+        "freq": 1
+    },
+    "heartfelt": {
+        "emotions": {
+            "joy": 0.719,
+            "sadness": 0.188,
+            "trust": 0.734
+        },
+        "freq": 1
+    },
+    "heaven": {
+        "emotions": {
+            "joy": 0.721
+        },
+        "freq": 1
+    },
+    "help": {
+        "emotions": {
+            "fear": 0.203
+        },
+        "freq": 8
+    },
+    "helpful": {
+        "emotions": {
+            "joy": 0.422,
+            "trust": 0.602
+        },
+        "freq": 1
+    },
+    "home": {
+        "emotions": {
+            "joy": 0.559
+        },
+        "freq": 2
+    },
+    "hope": {
+        "emotions": {
+            "anticipation": 0.773,
+            "joy": 0.586,
+            "surprise": 0.367,
+            "trust": 0.68
+        },
+        "freq": 7
+    },
+    "hopeful": {
+        "emotions": {
+            "anticipation": 0.703,
+            "joy": 0.559,
+            "surprise": 0.234,
+            "trust": 0.633
+        },
+        "freq": 1
+    },
+    "horseshit": {
+        "emotions": {
+            "anger": 0.719
+        },
+        "freq": 1
+    },
+    "humanitarian": {
+        "emotions": {
+            "anticipation": 0.383,
+            "joy": 0.469,
+            "surprise": 0.195,
+            "trust": 0.695
+        },
+        "freq": 1
+    },
+    "humanity": {
+        "emotions": {
+            "joy": 0.391,
+            "trust": 0.688
+        },
+        "freq": 11
+    },
+    "humor": {
+        "emotions": {
+            "joy": 0.656
+        },
+        "freq": 1
+    },
+    "hungry": {
+        "emotions": {
+            "anticipation": 0.547
+        },
+        "freq": 4
+    },
+    "illuminate": {
+        "emotions": {
+            "anticipation": 0.594,
+            "joy": 0.547,
+            "surprise": 0.547
+        },
+        "freq": 1
+    },
+    "imagination": {
+        "emotions": {
+            "fear": 0.141,
+            "trust": 0.438
+        },
+        "freq": 2
+    },
+    "inconceivable": {
+        "emotions": {
+            "surprise": 0.602
+        },
+        "freq": 1
+    },
+    "inevitable": {
+        "emotions": {
+            "trust": 0.492
+        },
+        "freq": 1
+    },
+    "injustice": {
+        "emotions": {
+            "anger": 0.5
+        },
+        "freq": 1
+    },
+    "intimacy": {
+        "emotions": {
+            "fear": 0.203
+        },
+        "freq": 1
+    },
+    "jesus": {
+        "emotions": {
+            "joy": 0.594
+        },
+        "freq": 5
+    },
+    "judgement": {
+        "emotions": {
+            "trust": 0.492
+        },
+        "freq": 1
+    },
+    "justice": {
+        "emotions": {
+            "trust": 0.711
+        },
+        "freq": 4
+    },
+    "kind": {
+        "emotions": {
+            "joy": 0.621,
+            "trust": 0.641
+        },
+        "freq": 1
+    },
+    "kitten": {
+        "emotions": {
+            "joy": 0.364,
+            "trust": 0.461
+        },
+        "freq": 2
+    },
+    "laughing": {
+        "emotions": {
+            "joy": 0.864
+        },
+        "freq": 1
+    },
+    "life": {
+        "emotions": {
+            "joy": 0.438
+        },
+        "freq": 9
+    },
+    "like": {
+        "emotions": {
+            "trust": 0.484
+        },
+        "freq": 1
+    },
+    "live": {
+        "emotions": {
+            "joy": 0.406
+        },
+        "freq": 4
+    },
+    "love": {
+        "emotions": {
+            "joy": 0.828,
+            "trust": 0.758
+        },
+        "freq": 134
+    },
+    "lust": {
+        "emotions": {
+            "anticipation": 0.625
+        },
+        "freq": 1
+    },
+    "morality": {
+        "emotions": {
+            "trust": 0.703
+        },
+        "freq": 1
+    },
+    "mother": {
+        "emotions": {
+            "anticipation": 0.406,
+            "joy": 0.412,
+            "sadness": 0.016,
+            "trust": 0.703
+        },
+        "freq": 3
+    },
+    "murder": {
+        "emotions": {
+            "anger": 0.897,
+            "disgust": 0.839,
+            "fear": 0.906,
+            "sadness": 0.828,
+            "surprise": 0.617
+        },
+        "freq": 1
+    },
+    "nonsense": {
+        "emotions": {
+            "anger": 0.25
+        },
+        "freq": 1
+    },
+    "nose": {
+        "emotions": {
+            "disgust": 0.18
+        },
+        "freq": 1
+    },
+    "obese": {
+        "emotions": {
+            "disgust": 0.734
+        },
+        "freq": 1
+    },
+    "octopus": {
+        "emotions": {
+            "disgust": 0.258
+        },
+        "freq": 1
+    },
+    "orc": {
+        "emotions": {
+            "anger": 0.289,
+            "disgust": 0.383,
+            "fear": 0.388
+        },
+        "freq": 1
+    },
+    "pain": {
+        "emotions": {
+            "fear": 0.594,
+            "sadness": 0.719
+        },
+        "freq": 3
+    },
+    "pandemic": {
+        "emotions": {
+            "fear": 0.664,
+            "sadness": 0.75
+        },
+        "freq": 1
+    },
+    "passion": {
+        "emotions": {
+            "anticipation": 0.633,
+            "joy": 0.603,
+            "trust": 0.469
+        },
+        "freq": 3
+    },
+    "pray": {
+        "emotions": {
+            "anticipation": 0.547,
+            "fear": 0.109,
+            "joy": 0.469,
+            "surprise": 0.18,
+            "trust": 0.516
+        },
+        "freq": 1
+    },
+    "prayer": {
+        "emotions": {
+            "joy": 0.439
+        },
+        "freq": 1
+    },
+    "pregnancy": {
+        "emotions": {
+            "disgust": 0.164
+        },
+        "freq": 1
+    },
+    "puppy": {
+        "emotions": {
+            "anticipation": 0.5,
+            "trust": 0.453
+        },
+        "freq": 1
+    },
+    "rage": {
+        "emotions": {
+            "anger": 0.911
+        },
+        "freq": 1
+    },
+    "rapture": {
+        "emotions": {
+            "anticipation": 0.711,
+            "joy": 0.485
+        },
+        "freq": 1
+    },
+    "religion": {
+        "emotions": {
+            "trust": 0.469
+        },
+        "freq": 1
+    },
+    "requiem": {
+        "emotions": {
+            "sadness": 0.531
+        },
+        "freq": 1
+    },
+    "retard": {
+        "emotions": {
+            "disgust": 0.578,
+            "fear": 0.484,
+            "sadness": 0.516
+        },
+        "freq": 1
+    },
+    "riddle": {
+        "emotions": {
+            "surprise": 0.422
+        },
+        "freq": 1
+    },
+    "ridiculous": {
+        "emotions": {
+            "anger": 0.289,
+            "disgust": 0.352
+        },
+        "freq": 2
+    },
+    "run": {
+        "emotions": {
+            "fear": 0.25
+        },
+        "freq": 1
+    },
+    "sadness": {
+        "emotions": {
+            "sadness": 0.864,
+            "trust": 0.25
+        },
+        "freq": 1
+    },
+    "salvation": {
+        "emotions": {
+            "anticipation": 0.555,
+            "joy": 0.412,
+            "trust": 0.547
+        },
+        "freq": 1
+    },
+    "scared": {
+        "emotions": {
+            "fear": 0.734
+        },
+        "freq": 4
+    },
+    "sex": {
+        "emotions": {
+            "anticipation": 0.695,
+            "joy": 0.622,
+            "trust": 0.375
+        },
+        "freq": 8
+    },
+    "shit": {
+        "emotions": {
+            "anger": 0.573,
+            "disgust": 0.82
+        },
+        "freq": 5
+    },
+    "shitty": {
+        "emotions": {
+            "sadness": 0.656
+        },
+        "freq": 1
+    },
+    "shorty": {
+        "emotions": {
+            "trust": 0.289
+        },
+        "freq": 1
+    },
+    "smell": {
+        "emotions": {
+            "anger": 0.061,
+            "disgust": 0.445
+        },
+        "freq": 1
+    },
+    "smile": {
+        "emotions": {
+            "joy": 0.75,
+            "surprise": 0.117,
+            "trust": 0.578
+        },
+        "freq": 2
+    },
+    "soul": {
+        "emotions": {
+            "joy": 0.401
+        },
+        "freq": 9
+    },
+    "spiritual": {
+        "emotions": {
+            "joy": 0.297,
+            "trust": 0.664
+        },
+        "freq": 1
+    },
+    "suffering": {
+        "emotions": {
+            "disgust": 0.625,
+            "fear": 0.812,
+            "sadness": 0.844
+        },
+        "freq": 1
+    },
+    "sunset": {
+        "emotions": {
+            "anticipation": 0.453,
+            "joy": 0.312
+        },
+        "freq": 1
+    },
+    "sunshine": {
+        "emotions": {
+            "joy": 0.551
+        },
+        "freq": 1
+    },
+    "sympathy": {
+        "emotions": {
+            "sadness": 0.375
+        },
+        "freq": 4
+    },
+    "tantamount": {
+        "emotions": {
+            "trust": 0.539
+        },
+        "freq": 1
+    },
+    "thought": {
+        "emotions": {
+            "anticipation": 0.414
+        },
+        "freq": 1
+    },
+    "triumph": {
+        "emotions": {
+            "anticipation": 0.664,
+            "joy": 0.742
+        },
+        "freq": 1
+    },
+    "true": {
+        "emotions": {
+            "joy": 0.328,
+            "trust": 0.789
+        },
+        "freq": 1
+    },
+    "trust": {
+        "emotions": {
+            "anticipation": 0.391,
+            "trust": 0.805
+        },
+        "freq": 2
+    },
+    "unknown": {
+        "emotions": {
+            "anticipation": 0.469,
+            "fear": 0.369
+        },
+        "freq": 1
+    },
+    "vivid": {
+        "emotions": {
+            "joy": 0.515
+        },
+        "freq": 1
+    },
+    "waffle": {
+        "emotions": {
+            "anger": 0.03,
+            "sadness": 0.047
+        },
+        "freq": 1
+    },
+    "weirdo": {
+        "emotions": {
+            "fear": 0.328
+        },
+        "freq": 1
+    },
+    "word": {
+        "emotions": {
+            "trust": 0.477
+        },
+        "freq": 2
+    },
+    "worthy": {
+        "emotions": {
+            "trust": 0.643
+        },
+        "freq": 1
+    }
+}
