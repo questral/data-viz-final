@@ -9,7 +9,6 @@ class ParallelSet {
         this.categorySpacing = this.w / (this.categories.length-1);
         this.data = data;
         this.margin = 5;
-        this.testCounter = 100;
     }
 
     display(scrollY, hovered, selected) {
@@ -50,13 +49,7 @@ class ParallelSet {
 
         //draw word lines
         let prevWordY;
-        let testCounter = 0;
         for (let word in this.data) {
-            if (testCounter >= this.testCounter) {
-                break;
-            }
-            testCounter++;
-
             if (!checkCompliance(word)) {
                 continue;
             }

@@ -22,6 +22,8 @@ let nrcAllWords, nrcInvalidWords, turingAllWords, turingInvalidWords, turingRank
 let intersection, union;
 let emotions = ['anger','anticipation','disgust','fear','joy','sadness','surprise','trust'];
 
+let ytLinkButton;
+
 let totalPageHeight;
 
 function preload() {
@@ -62,7 +64,7 @@ function setup() {
 
   let allText = [
     "How would you prove you’re a human in one word?",
-    "On November 9, 2025, linguist and content creator Etymology Nerd uploaded a Youtube Short, analyzing a study that posed this exact question. In the video, he talks about the potential philosophies that may have been behind the chosen most “human” words, from a linguistic perspective. But the video came to mind again when I later found a dataset mapping words to the intensity of certain emotions. I was curious if there was any correlation between the words we saw as most “human” and their emotional palette. What else could that information reveal about us?",
+    "On November 9, 2025, linguist and content creator Etymology Nerd uploaded a YouTube Short, analyzing a study that posed this exact question. In the video, he talks about the potential philosophies that may have been behind the chosen most “human” words, from a linguistic perspective. But the video came to mind again when I later found a dataset mapping words to the intensity of certain emotions. I was curious if there was any correlation between the words we saw as most “human” and their emotional palette. What else could that information reveal about us?",
     200,
     "The video by Etymology Nerd references the study A Minimal Turing Test by John P. McCoy and Tomer D. Ullman, created in 2018. In this first study, participants were asked to imagine themselves in a hypothetical test. They, along with a robot, would each be allowed to say one word to assert themselves as the human, and the other as the fake — at the risk of death. The data from this study is a list of every word offered by the participants, with a count of how many times it was said.",
     "In asking the question in the context of comparison to a robot, we might be inclined to pick less obvious words, words that the robot would also find easy to guess.",
@@ -160,7 +162,8 @@ function setup() {
   startX = umapW + 150; startY = spacers[7].y+500;
   parallelSet = new ParallelSet(startX,startY,600,200, emotions, intersection);
   
-
+  let ytLinkButtonW = 100; let ytLinkButtonH = 30;
+  ytLinkButton = {'x':width-ytLinkButtonW-20, 'y':height-ytLinkButtonH-20, 'w':ytLinkButtonW, 'h':ytLinkButtonH};
 }
 
 function setupText(textList) {
@@ -257,21 +260,38 @@ function draw() {
     text(source, 20,startY + (i*20));
   }
 
+  let ytLinkButtonX = ytLinkButton['x']; let ytLinkButtonY = ytLinkButton['y'];
+  let ytLinkButtonW = ytLinkButton['w']; let ytLinkButtonH = ytLinkButton['h'];
+  fill(inBox(mouseX,mouseY, ytLinkButtonX,ytLinkButtonY,ytLinkButtonW,ytLinkButtonH) ? 120 : 200);
+  stroke(0); strokeWeight(2);
+  rect(ytLinkButtonX,ytLinkButtonY, ytLinkButtonW,ytLinkButtonH);
+  textAlign(CENTER,CENTER);
+  fill(0); noStroke();
+  text('YT Video Link', ytLinkButtonX+(ytLinkButtonW/2),ytLinkButtonY+(ytLinkButtonH/2));
 }
 
 function mousePressed() {
+  let ytLinkButtonX = ytLinkButton['x']; let ytLinkButtonY = ytLinkButton['y'];
+  let ytLinkButtonW = ytLinkButton['w']; let ytLinkButtonH = ytLinkButton['h'];
+  if (inBox(mouseX,mouseY, ytLinkButtonX,ytLinkButtonY,ytLinkButtonW,ytLinkButtonH)) {
+    window.open('https://youtu.be/WG647OaOAks');
+    return;
+  }
   for (let scatterPlot of scatterPlots) {
     if (scatterPlot.preview == false && inBox(mouseX,mouseY, scatterPlot.x,scatterPlot.y,scatterPlot.w,scatterPlot.h)) {
       previewScatterPlot1.emotion = scatterPlot.emotion;
+      return;
     }
   }
   for (let filterSlider of filterSliders) {
     if (filterSlider.checkHandlesDrag() == null) {
       filterSlider.checkButton();
+      return;
     }
   }
   if (inBox(mouseX,mouseY, umap.x,umap.y,umap.w,umap.h)) {
     umapDragging = true;
+    return;
   }
 }
 
