@@ -116,6 +116,10 @@ class ParallelSet {
             }
             testCounter++;
 
+            if (!checkCompliance(word)) {
+                continue;
+            }
+
             let prevWordV = this.data[word]['emotions'][prevCategory] || 0;
             let wordV = this.data[word]['emotions'][category] || 0;
             // prevWordV = (prevWordV == undefined ? 0 : prevWordV);
