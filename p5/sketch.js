@@ -284,9 +284,11 @@ function mousePressed() {
     }
   }
   for (let filterSlider of filterSliders) {
+    console.log("checking slider");
     if (filterSlider.checkHandlesDrag() == null) {
-      filterSlider.checkButton();
-      return;
+      if (filterSlider.checkButton()) {
+        return;
+      }
     }
   }
   if (inBox(mouseX,mouseY, umap.x,umap.y,umap.w,umap.h)) {

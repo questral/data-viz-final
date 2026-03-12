@@ -155,15 +155,20 @@ class FilterSlider {
       let buttonW = buttonBounds['w']; let buttonH = buttonBounds['h'];
       if (inBox(mouseX,mouseY, buttonX,buttonY,buttonW,buttonH)) {
         this.visible = !this.visible;
+        return true;
       }
+      return false;
     }
     
     moveHandles() {
       if (this.grabbedHandle == 'handle') {
         this.updateV();
+        return true;
       } else if (this.grabbedHandle == 'boundsLeft' || this.grabbedHandle == 'boundsRight') {
         this.updateBounds();
+        return true;
       }
+      return false;
     }
   
     updateV() { //if one of this line's segments is closest to the mouse, this sets it as the active segment (to later add a node to)
